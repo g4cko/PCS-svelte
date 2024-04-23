@@ -150,5 +150,14 @@
         "imgSilly": "/Members/abdullah-m-prof.jpg",
         "major": "Political Economy, Data Science (Minor)",
         "graduation": "2027"
+    },
+	{
+        "name": "Alex Forman",
+        "roles": ["Member"],
+        "linkedin": "https://www.linkedin.com/in/alex-k-forman/",
+        "img": "/Members/alex-headshot.jpeg",
+        "imgSilly": "/Members/alex.jpg",
+        "major": "Industrial Engineering and Operations Research",
+        "graduation": "2027"
     }
 ]
